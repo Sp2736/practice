@@ -1,3 +1,9 @@
+materials/
+*.exe
+*.pdf
+*.xlsx
+*.docx
+
 # Prerequisites
 *.d
 
