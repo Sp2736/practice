@@ -2,6 +2,10 @@
  * @file problem-1-opt.cpp
  * @brief LeetCode Problem 1: Two Sum (Optimized Hash Map Approach)
  * 
+ * @note
+ * - Documentation: Created using LLM / AI.
+ * - Solution Origin: Optimized solution developed after studying and taking hints from AI.
+ * 
  * @details
  * Given an array of integers `nums` and an integer `target`, return indices of the two
  * numbers such that they add up to `target`.
@@ -59,4 +63,3 @@ int main()
 
     return 0;
 }
-

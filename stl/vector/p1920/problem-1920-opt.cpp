@@ -2,6 +2,10 @@
  * @file problem-1920-opt.cpp
  * @brief LeetCode Problem 1920: Build Array from Permutation (In-Place Optimized O(1) Space)
  * 
+ * @note
+ * - Documentation: Created using LLM / AI.
+ * - Solution Origin: Optimized solution developed after studying and taking hints from AI.
+ * 
  * @details
  * Given a zero-based permutation `nums` of length `n`, build an array `ans` where `ans[i] = nums[nums[i]]`.
  * 

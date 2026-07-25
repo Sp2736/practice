@@ -2,6 +2,10 @@
  * @file problem-1.cpp
  * @brief LeetCode Problem 1: Two Sum (Brute-Force Approach)
  * 
+ * @note
+ * - Documentation: Created using LLM / AI.
+ * - Solution Origin: Human written logic.
+ * 
  * @details
  * Given an array of integers `nums` and an integer `target`, return indices of the two
  * numbers such that they add up to `target`.
@@ -65,4 +69,3 @@ int main()
 
     return 0;
 }
-
