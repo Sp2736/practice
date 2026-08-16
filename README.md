@@ -58,6 +58,9 @@ java path/to/problem-file
 ---
 
 ## 🎯 Personal Goals
-- Build deep mastery over C++ STL containers and algorithms.
+- Build deep mastery over C++ STL containers, Java Collection Classes and algorithms.
 - Systematically optimize time and space complexity for complex algorithmic challenges.
 - Maintain clean, documented, and scalable code standards across all solutions.
+
+> **NOTE:**
+> Practicing DSA and Algorithms using strict OOP environments aids both, application of algorithms and data structures, as well as develops skills in object-oriented approach. These practically run the tech industry!
