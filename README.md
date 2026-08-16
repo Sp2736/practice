@@ -1,10 +1,10 @@
-# LeetCode Solutions & C++ Practice Repository
+# LeetCode Solutions & C++/Java Practice Repository
 
-Welcome to my **LeetCode Solutions** repository! This project documents my ongoing journey in mastering Data Structures, Algorithms, and C++ Standard Template Library (STL) through competitive programming.
+Welcome to my **LeetCode Solutions** repository! This project documents my ongoing journey in mastering Data Structures, Algorithms, and C++ Standard Template Library (STL) or Java Generics and Collections, through competitive programming.
 
 ---
 
-## 💡 Repository Philosophy
+## 💡 Repository Philosophy (Illustrated considering CPP)
 
 As this repository continuously grows with new practice problems, solutions follow a standardized structure:
 
@@ -39,7 +39,7 @@ This repository is organized logically by topic and problem number to scale clea
 
 ## 🛠️ Compilation & Execution
 
-All solution files are self-contained and include a runnable `main()` function with sample test cases. You can compile and execute any solution file using `g++` (C++11 or newer):
+All solution files are self-contained and include a runnable `main()` function with sample test cases. You can compile and execute any solution file using `g++` (C++11 or newer), and from Java 8 and above:
 
 ```bash
 # General Compilation Command
@@ -48,7 +48,13 @@ g++ -std=c++11 -O2 path/to/problem-file.cpp -o solution
 # Execute Binary
 ./solution
 ```
+```bash
+# Java Compilation
+javac path/to/problem-file.java
 
+# Execute
+java path/to/problem-file
+```
 ---
 
 ## 🎯 Personal Goals
