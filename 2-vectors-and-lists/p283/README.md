@@ -20,3 +20,4 @@ Examples:
 | **Pros & Cons** | Intuitive and simple logic, but writes to every element (including setting trailing zeroes) | Optimal number of array writes; handles zero-heavy and prefix-zero arrays with minimal moves in a single pass |
 
 > **Note**: All source file documentations were generated using LLM / AI.
+

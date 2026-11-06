@@ -71,3 +71,28 @@ int main() {
 
     return 0;
 }
+
+
+int main() {
+    Solution s;
+
+    vector<int> nums1 = {0, 1, 0, 3, 12};
+    cout << "Original: [0, 1, 0, 3, 12]" << endl;
+    s.moveZeroes(nums1);
+    cout << "After moveZeroes: [";
+    for (size_t i = 0; i < nums1.size(); i++) {
+        cout << nums1[i] << (i + 1 < nums1.size() ? ", " : "");
+    }
+    cout << "]" << endl;
+
+    vector<int> nums2 = {0};
+    cout << "Original: [0]" << endl;
+    s.moveZeroes(nums2);
+    cout << "After moveZeroes: [";
+    for (size_t i = 0; i < nums2.size(); i++) {
+        cout << nums2[i] << (i + 1 < nums2.size() ? ", " : "");
+    }
+    cout << "]" << endl;
+
+    return 0;
+}
